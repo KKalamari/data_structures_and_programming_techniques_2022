@@ -13,6 +13,7 @@ int stats_find_min(int array[], int size) {
 			min = array[i];     // βρέθηκε νέο ελάχιστο
 	
 	return min;
+	
 }
 
 int stats_find_max(int array[], int size) {
